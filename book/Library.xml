@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <books bookid="1">
+        <author>ABC</author>
+        <category>Computer Science</category>
+        <name>Learn Java</name>
+    </books>
+    <books bookid="2">
+        <author>DFG</author>
+        <category>Computer Science</category>
+        <name>Learn Spring</name>
+    </books>
+    <books bookid="3">
+        <author>A</author>
+        <category>History</category>
+        <name>Modern India </name>
+    </books>
+    <books bookid="4">
+        <author>klo</author>
+        <category>12th</category>
+        <name>Science</name>
+    </books>
+    <books bookid="5">
+        <author>ABC</author>
+        <category>Computer Science</category>
+        <name>Hands on with Python</name>
+    </books>
+    <name>Accolite</name>
+</library>
